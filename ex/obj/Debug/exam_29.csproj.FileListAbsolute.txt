@@ -1,0 +1,6 @@
+C:\Users\Stas74\source\repos\exam_29\bin\Debug\exam_29.exe.config
+C:\Users\Stas74\source\repos\exam_29\bin\Debug\exam_29.exe
+C:\Users\Stas74\source\repos\exam_29\bin\Debug\exam_29.pdb
+C:\Users\Stas74\source\repos\exam_29\obj\Debug\exam_29.csprojAssemblyReference.cache
+C:\Users\Stas74\source\repos\exam_29\obj\Debug\exam_29.exe
+C:\Users\Stas74\source\repos\exam_29\obj\Debug\exam_29.pdb

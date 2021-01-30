@@ -1,0 +1,4 @@
+﻿hello, wold!!
+I'm really glad to see you.
+int i = 12
+List<string> list = new List<string>();
